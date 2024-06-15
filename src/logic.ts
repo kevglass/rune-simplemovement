@@ -1,6 +1,6 @@
 import type { RuneClient } from "rune-games-sdk/multiplayer"
 
-const MOVE_SPEED = 1;
+const MOVE_SPEED = 3;
 
 export interface GameState {
   y: number;
